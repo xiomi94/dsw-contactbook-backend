@@ -8,22 +8,24 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-* [Postman](https://www.postman.com/) - Tool to test our endpoints
+* [![Node][Node]][Node-url]
 
 
 ### Installing
 
-What things you need to install to use my backend
+```
+npm install
+```
+
+## Run project
 
 ```
-npm init
+npm run start
 ```
-```
-npm install express
-```
-```
-npm install sequelize sql2
-```
+
+## Recomendations
+
+* [Postman](https://www.postman.com/) - Tool to test our endpoints
 
 ## Built With
 
@@ -39,3 +41,5 @@ npm install sequelize sql2
 [Express-url]: https://www.npmjs.com/package/express
 [Sequelize-url]: https://sequelize.org/
 [Sequelize]: https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white
+[Node]: https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white
+[Node-url]: https://nodejs.org/es/
