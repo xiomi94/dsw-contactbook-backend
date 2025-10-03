@@ -36,6 +36,10 @@ npm run start
 
 * **Xiomara Jiménez Velázquez** - [xiomi94](https://https://github.com/xiomi94)
 
+## Documentation
+
+You can see my endpoints documentation [here](https://documenter.getpostman.com/view/45089686/2sB3QGtraF)
+
 
 [Express]: https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white
 [Express-url]: https://www.npmjs.com/package/express
